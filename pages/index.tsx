@@ -98,8 +98,6 @@ export async function getStaticProps(){
                              .then( res => res.json() ) ;      
    
   
-
-
    return {
             props :{
                      exploreData , 
