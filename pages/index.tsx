@@ -30,7 +30,7 @@ const Home = ( { exploreData , cardsData } : Props ) => {
               </Head>
 
               {/* Header */}
-              <Header />
+              <Header placeholder="" />
 
               {/* Banner */}
               <Banner/>
